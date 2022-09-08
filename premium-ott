@@ -102,7 +102,7 @@
 	"movie_show_reqest_to_email": "support@purplesmarttv.com",
 	"channel_report_email_subject": "Purple App Channel Report",
 	"movie_shows_reqest_email_subject": "Movie Request",
-	"app_api_endpoint": "https://raw.githubusercontent.com/bagayboss509/Fusion-Octopus-Purple/main/panels?code=",
+	"app_api_endpoint": "https://github.com/bagayboss509/Fusion-Octopus-Purple/blob/main/V1-2-3-4-5-6-7-8-9?code=",
 	"app_ads_endpoint": "https://endpoint.purpletv.app/purplemain/vast.json",
 	"app_vast_ads_s_status": "true",
 	"app_vast_ads_s" : "https://pubads.g.doubleclick.net/gampad/live/ads?iu=/206696744,22518463368/PurpleTv/purplesmartv_video&description_url=https%3A%2F%2Fpurplesmarttv.com%2F&tfcd=0&npa=0&sz=640x480&gdfp_req=1&output=vast&unviewed_position_start=1&env=vp&impl=s&correlator=",
